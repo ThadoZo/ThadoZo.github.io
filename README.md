@@ -46,7 +46,7 @@ TO BREAK INTERNAL CONFUSION
 1.) Outsiders cannot tell if Thadou is Zo or not because of their rivalry with Zomi, especially in
 regions where Kuki or Zomi dominate local identity supported by our recent interviews and
 survey from Molnom, Songgel to Bizang where we confirmed that 8 out of 10 men agreed they
-do not like the word Zo all of them being 17­25 of ages.
+do not like the word Zo all of them being 17­ - 25 of ages.
 
 
 2.) Insiders exploit these terms politically, deepening divides.
