@@ -71,5 +71,5 @@ We have succeded in making Zoese more available to the public of younger Eimi th
 
 Another Achievement is the making of the Uniscribe of Zoese for Computer to use making it easier to standerlized it to modern implication.
 
-theme: minima
+<img width="792" height="752" alt="Image" src="https://github.com/user-attachments/assets/bee1302e-f511-4274-bfe9-1ab42bb286a0" />
 
