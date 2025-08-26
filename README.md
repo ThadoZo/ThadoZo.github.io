@@ -1,5 +1,5 @@
 # Zoese
-## ThadoZo
+## ThadoZo Linguist and History Researchers
 
 
 **ABOUT**
