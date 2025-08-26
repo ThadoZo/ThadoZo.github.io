@@ -70,3 +70,6 @@ Vietnamese from Viet Nam or Igorot, Negrito, and Lumad coming under Fillipinos.
 We have succeded in making Zoese more available to the public of younger Eimi through Youtube by co-operating with a Fillipino named Andy.
 
 Another Achievement is the making of the Uniscribe of Zoese for Computer to use making it easier to standerlized it to modern implication.
+
+theme: minima
+
