@@ -1,7 +1,6 @@
 # Zoese
 ## ThadoZo Linguist and History Researchers
 
-theme: jekyll-theme-cayman
 
 **ABOUT**
 ThadoZo is a small team of Linguist and History enthusiasts who are a part of Zou Literature Society where we work on Unicode/Uniscribe of Zoese.
