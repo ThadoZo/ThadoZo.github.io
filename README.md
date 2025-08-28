@@ -71,7 +71,11 @@ We have succeded in making Zoese more available to the public of younger Eimi th
 
 Another Achievement is the making of the Uniscribe of Zoese for Computer to use making it easier to standerlized it to modern implication.
 
-<img width="699" height="688" alt="Screenshot 2025-08-26 132641" src="https://github.com/user-attachments/assets/bb8363b5-7630-402f-b267-b49badaac3a6" />
 
-Zoese Lai
-<img width="790" height="1022" alt="Screenshot 2025-08-28 092430" src="https://github.com/user-attachments/assets/d9ce9580-a658-4289-83b8-65ce5c9669f2" />
+img {
+  max-width: 100%;
+  height: auto;          /* keeps aspect ratio */
+  object-fit: contain;   /* avoids distortion */
+  display: block;
+  margin: auto;
+}
