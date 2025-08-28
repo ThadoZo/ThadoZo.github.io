@@ -72,10 +72,20 @@ We have succeded in making Zoese more available to the public of younger Eimi th
 Another Achievement is the making of the Uniscribe of Zoese for Computer to use making it easier to standerlized it to modern implication.
 
 
-img {
-  max-width: 100%;
-  height: auto;          /* keeps aspect ratio */
-  object-fit: contain;   /* avoids distortion */
-  display: block;
-  margin: auto;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zoese Lai</title>
+  <link rel="stylesheet" href="style.css"> <!-- link your CSS -->
+</head>
+<body>
+
+  <img 
+    src="https://github.com/user-attachments/assets/bb8363b5-7630-402f-b267-b49badaac3a6" 
+    alt="Zoese Lai chart"
+  />
+
+</body>
+</html>
